@@ -1,0 +1,28 @@
+{
+  "name": "bot-asuna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "cheerio": "^1.0.0-rc.5",
+    "discord-paginationembed": "^2.1.0",
+    "discord-player": "^3.2.0",
+    "discord-xp": "^1.1.7",
+    "discord.js": "^12.5.1",
+    "discord.js-menu": "^2.3.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.10",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "spotify-url-info": "^2.2.0",
+    "ytdl-core": "^4.3.0",
+    "ytsearcher": "^1.2.3",
+    "ytsr": "^3.2.1"
+  }
+}
